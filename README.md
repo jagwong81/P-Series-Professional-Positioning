@@ -14,7 +14,7 @@ This series is not intended to redefine past experience. Its purpose is to clari
 
 | ID | Title | Status |
 |------|------|------|
-| P-01 | Was I a Designer, Planner, or Project Coordinator? | In Progress |
+| P-01 | Was I a Designer, Planner, or Project Coordinator? | Draft |
 
 ---
 
