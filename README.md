@@ -20,6 +20,6 @@ This series is not intended to redefine past experience. Its purpose is to clari
 
 # Related Repository
 
-L-Series-Laboratory-Systems
+[L-Series-Laboratory-Systems](https://github.com/jagwong81/L-Series-Laboratory-Systems)
 
 An archive of laboratory systems thinking, operational continuity, coordination behavior, and project-interface observations.
