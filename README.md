@@ -12,9 +12,11 @@ This series is not intended to redefine past experience. Its purpose is to clari
 
 # Index
 
-| ID | Title | Status |
-|------|------|------|
-| P-01 | Was I a Designer, Planner, or Project Coordinator? | Draft |
+| ID   | Title                                                   | Status    |
+|------|---------------------------------------------------------|-----------|
+| P-01 | Was I a Designer, Planner, or Project Coordinator?      | Published |
+| P-02 | Career Paths Are Rarely Straight Lines                  | Published |
+| P-03 | Before Looking for Solutions                            | Published |
 
 ---
 
